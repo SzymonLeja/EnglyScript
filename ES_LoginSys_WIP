@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         EnglyScript
 // @namespace    http://tampermonkey.net/
-// @version      1.0
+// @version      1.1.1
 // @description  Opening and resolving tasks assigned by the teacher
-// @author       Lequert
+// @author       SL
 // @match        https://engly.pl/*
 // @match        https://engly.pl/student/assigned_tasks/*
 // ==/UserScript==
